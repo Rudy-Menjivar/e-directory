@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# e-directory
+![{data.license}](https://shields.io/badge/license-MIT-green)
+
+
+## Description
+
+The goal of this application is to provide quick access to an entire employee directory with React.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
