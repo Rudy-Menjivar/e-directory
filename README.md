@@ -18,6 +18,8 @@ The goal of this application is to provide quick access to an entire employee di
 
 * [Learn More](#learn-more)
 
+* [Questions](#questions)
+
 
 ## Business Context
 
@@ -93,3 +95,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Questions
+
+If you have any questions then feel free to contact me, and you can find my complete work at GitHub.
+
+* <a href="mailto:rudy.menjivar@gmail.com">Email</a>
+* <a href="https://github.com/Rudy-Menjivar" target="_blank">GitHub</a>
