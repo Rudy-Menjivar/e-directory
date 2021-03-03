@@ -6,6 +6,9 @@
 
 The goal of this application is to provide quick access to an entire employee directory with React.
 
+## Content
+
+* [GitHub Repository](https://github.com/Rudy-Menjivar/e-directory)
 
 ## Business Context
 
