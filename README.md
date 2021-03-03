@@ -10,6 +10,15 @@ The goal of this application is to provide quick access to an entire employee di
 
 * [GitHub Repository](https://github.com/Rudy-Menjivar/e-directory)
 
+* [Business Context](#business-context)
+
+* [Getting Started with Create React App](#getting-started-with-create-react-app)
+
+* [Available Scripts](#available-scripts)
+
+* [Learn More](#learn-more)
+
+
 ## Business Context
 
 A manager would greatly benefit by having quick access to view a table of employees. Additionally, options to sort the table by one or more categories and filter the employees by at least one property. For example, filter employees by name.
