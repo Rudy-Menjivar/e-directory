@@ -7,6 +7,10 @@
 The goal of this application is to provide quick access to an entire employee directory with React.
 
 
+## Business Context
+
+A manager would greatly benefit by having quick access to view a table of employees. Additionally, options to sort the table by one or more categories and filter the employees by at least one property. For example, filter employees by name.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
