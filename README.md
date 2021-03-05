@@ -10,6 +10,8 @@ The goal of this application is to provide quick access to an entire employee di
 
 * [GitHub Repository](https://github.com/Rudy-Menjivar/e-directory)
 
+* [Live Site](https://best-emp-directory.herokuapp.com/)
+
 * [Business Context](#business-context)
 
 * [Getting Started with Create React App](#getting-started-with-create-react-app)
