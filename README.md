@@ -10,7 +10,7 @@ The goal of this application is to provide quick access to an entire employee di
 
 * [GitHub Repository](https://github.com/Rudy-Menjivar/e-directory)
 
-* [Live Site](https://best-emp-directory.herokuapp.com/)
+* [Live Site](https://rudy-menjivar.github.io/e-directory/)
 
 * [Business Context](#business-context)
 
