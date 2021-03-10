@@ -19,6 +19,15 @@ export default class RenderData extends Component {
     { name: "DOB", width: "15%" }
   ]
 
+  componentDidMount() {
+    API.search25().then(results => {
+      this.setState({
+        users: results.data.results,
+        filteredUsers: results.data.results
+      });
+    });
+  }
+
   render() {
     return (
       <>
