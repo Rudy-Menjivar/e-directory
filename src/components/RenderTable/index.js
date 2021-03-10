@@ -1,6 +1,7 @@
 import React from "react";
+import RenderBody from "../RenderBody";
 
-function RenderTable({ headings }) {
+function RenderTable({ headings, users }) {
   return (
     <div className="render-table mt-5">
       <table
@@ -19,6 +20,8 @@ function RenderTable({ headings }) {
             })}
           </tr>
         </thead>
+
+        <RenderBody users={users} />
       </table>
     </div>
   );
